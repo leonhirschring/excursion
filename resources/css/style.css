@@ -19,11 +19,15 @@ h1 {
   font-size: 3em;
 }
 h2 {
-  font-size: 2,5em;
+  font-size: 2.5em;
 }
 h1, h2 {
   color: white;
   text-align: center;
+}
+.supporting-text {
+  color: #b3b3b3;
+  font-size: 1.25em;
 }
 .cta {
   color: #32cf95;
