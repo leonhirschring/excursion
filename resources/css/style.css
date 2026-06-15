@@ -2,6 +2,9 @@ body {
   background-color: black;
   font-family: Verdana, sans-serif;
 }
+p {
+  text-align: center;
+}
 h1 {
   font-family: Verdana, sans-serif;
   font-weight: normal;
@@ -20,14 +23,11 @@ h2 {
   font-family: Verdana, sans-serif;
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 .cta {
-  display: inline-block;
   color: aquamarine;
   font-size: 16px
   text-decoration: underline;
-  text-align: center;
 }
 img, video {
   display: block;
@@ -47,4 +47,5 @@ footer p {
   text-align: right;
   color: gray;
   font-family: Verdana, sans-serif;
+  font-size: 21px;
 }
