@@ -12,6 +12,12 @@ img, video {
   max-width: 50%;
   height: auto;
 }
+.app {
+  max-width: 50%;
+}
+.excursion-video {
+  max-width: 50%;
+}
 h1 {
   font-size: 3em;
 }
