@@ -15,13 +15,19 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+h1 {
+  font-size: 3em;
+}
+h2 {
+  font-size: 2em;
+}
 h1, h2 {
   color: white;
   text-align: center;
 }
 .cta {
   color: #32cf95;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .footer {
   text-align: center;
