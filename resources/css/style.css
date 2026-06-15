@@ -11,9 +11,10 @@ p img, p video {
 }
 h1, h2 {
   color: white;
+  text-align: center;
 }
 .cta {
-  color: #8d5fff;
+  color: #32cf95;
   text-decoration: none;
 }
 .footer {
